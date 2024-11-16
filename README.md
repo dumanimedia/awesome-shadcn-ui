@@ -5,7 +5,7 @@
   <br>
 </p>
 
-<h2 align='center'>awesome-shadcn/ui</h2>
+<h2 align='center'>awesome-shadcn/ui.</h2>
 
 <p align='center'>
 A curated list of awesome things related to <a href='https://ui.shadcn.com/'>shadcn/ui</a>
@@ -17,6 +17,7 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/'>sha
 </p>
 
 ## Libs and Components
+
 - [shadcn-blocks](https://ui.shadcn.com/blocks) - Blocks is the official shadcn/ui pre-made but customizable components that can be copied and pasted into your projects.
 - [shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension) - An open-source component collection that extends your UI library, built using shadcn/ui components.
 - [shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - A lots of useful components which shadcn/ui does not have out of the box.
@@ -54,7 +55,7 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/'>sha
 - [planner](https://github.com/UretzkyZvi/planner) - Planner is a highly adaptable scheduling component tailored for React applications.
 - [shadcn-cal](https://shadcn-cal-com.vercel.app/?date=2024-04-29) - A copy of the monthly calendar used by Cal.com with shadcn/ui, Radix Colors and React Aria.
 - [shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) - A stunning, functional and responsive retractable sidebar built on top of shadcn/ui.
-- [capture-photo](https://github.com/UretzkyZvi/capture-photo) - Capture-Photo is a versatile, browser-based React component designed to streamline the integration of camera functionalities directly into your web applications. 
+- [capture-photo](https://github.com/UretzkyZvi/capture-photo) - Capture-Photo is a versatile, browser-based React component designed to streamline the integration of camera functionalities directly into your web applications.
 - [search-address](https://github.com/UretzkyZvi/search-address) - The SearchAddress component provides a flexible and interactive search interface for addresses, utilizing the powerful Nominatim service from OpenStreetMap.
 - [sortable](https://github.com/sadmann7/sortable) - A sortable component built with shadcn/ui, radix ui, and dnd-kit.
 - [uixmat/onborda](https://github.com/uixmat/onborda) - Give your application the onboarding it deserves with Onborda product tour for Next.js
@@ -62,10 +63,11 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/'>sha
 - [echo-editor](https://github.com/Seedsa/echo-editor) - A modern WYSIWYG rich-text editor base on tiptap and shadcn/ui
 - [clerk-shadcn-theme](https://github.com/stormynight9/clerk-shadcn-theme) - Easily synchronize your Clerk `<SignIn />` and `<SignUp />` components with your shadcn/ui styles
 - [clerk-elements](https://clerk.com/docs/elements/examples/shadcn-ui) - Composable components that can be used to build custom UIs on top of Clerk's APIs
- 
+
 ## Apps
 
 ### Plugins and Extensions
+
 - [shadcn-ui](https://marketplace.visualstudio.com/items?itemName=SuhelMakkad.shadcn-ui) - Add components from shadcn/ui directly from VS Code.
 - [vscode-shadcn-svelte](https://marketplace.visualstudio.com/items?itemName=Selemondev.vscode-shadcn-svelte&ssr=false#overview) - VS Code extension for shadcn/ui components in Svelte projects.
 - [vscode-shadcn-vue](https://marketplace.visualstudio.com/items?itemName=Selemondev.shadcn-vue) - Extension for integrating shadcn/ui components into Vue.js projects.
@@ -73,6 +75,7 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/'>sha
 - [raycast-shadcn](https://www.raycast.com/luisFilipePT/shadcn-ui) - Raycast extension to Browse shadcn/ui documentation, components and examples
 
 ### Colors and Customizations
+
 - [zippy starter's shadcn/ui theme generator.](https://zippystarter.com/tools/shadcn-ui-theme-generator) - Easily create custom themes from a single colour that you can copy and paste into your apps.
 - [10000+Themes for shadcn/ui](https://ui.jln.dev/) - 10000+ Themes for shadcn/ui.
 - [ui-colorgen](https://ui-colorgen.vercel.app/) - An application designed to assist you with color configuration of shadcn/ui.
@@ -81,10 +84,12 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/'>sha
 - [navnote/rangeen](https://github.com/navnote/rangeen) - Tool that helps you to create a colour palette for your website
 
 ### Animations
+
 - [magicui.design](https://magicui.design) - Largest collection of open-source react components to build beautiful landing pages.
 - [motionvariants](https://github.com/chrisabdo/motionvariants) - Beautiful Framer Motion Animations.
 
 ### Tools
+
 - [v0](https://v0.dev/) - Vercel's generative UI system, built on shadcn/ui and TailwindCSS, allows effortless UI generation from text prompts and/or images. It produces React and HTML code, integration is also possible via v0 CLI command.
 - [shadcn-pricing-page-generator](https://shipixen.com/shadcn-pricing-page) - The easiest way to get a React pricing page with shadcn/ui, Radix UI and/or Tailwind CSS.
 - [invoify](https://github.com/aliabb01/invoify) - An invoice generator app built using Next.js, Typescript, and shadcn/ui
@@ -97,12 +102,14 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/'>sha
 - [CV Forge](https://cvforge.app) - Resume builder, build with @shadcn/ui, react-hook-form and react-pdf
 
 ## Platforms
-- [plotwist](https://plotwist.app/en-US) - Easy management and reviews of your movies, series and animes using Next.js, Tailwind CSS, Supabase and shadcn/ui. 
+
+- [plotwist](https://plotwist.app/en-US) - Easy management and reviews of your movies, series and animes using Next.js, Tailwind CSS, Supabase and shadcn/ui.
 - [infinitunes](https://github.com/rajput-hemant/infinitunes) - A Simple Music Player Web App built using Next.js, shadcn/ui, Tailwind CSS, DrizzleORM and more...
 - [kd](https://github.com/gneiru/kd) - Ad-free Kdrama streaming app. Built with Nextjs, Drizzle ORM, NeonDB and shadcn/ui
 - [bolhadev](https://bolhadev.chat/) - The quickest path to learn English is speaking it regularly. Just find someone to chat with.
 
 ## Ports
+
 - [Svelte](https://github.com/huntabyte/shadcn-svelte) - Svelte port of shadcn/ui
 - [Vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn/ui
 - [React Native](https://github.com/mrzachnugent/react-native-reusables) - React Native port of shadcn/ui (recommended)
@@ -118,11 +125,13 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/'>sha
 - [Franken UI](https://www.franken-ui.dev/) - HTML-first, framework-agnostic, beautifully designed components that you can truly copy and paste into your site. Accessible. Customizable. Open Source.
 
 ## Design System
+
 - [shadcn-ui-components](https://www.figma.com/community/file/1342715840824755935/shadcn-ui-components) - Every component recreated in Figma.
 - [shadcn-ui-storybook](https://65711ecf32bae758b457ae34-uryqbzvojc.chromatic.com/) - All shadcn/ui components registered in the storybook by [JheanAntunes](https://github.com/JheanAntunes/storybook-shadcn)
 - [shadcn-ui-storybook](https://fellipeutaka-ui.vercel.app/?path=/docs/components-accordion--docs) - All shadcn/ui components registered in the storybook by [fellipeutaka](https://github.com/fellipeutaka/ui)
 
 ## Boilerplates / Templates
+
 - [taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js
 - [shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Landing page template using shadcn/ui, React, Typescript and Tailwind CSS
 - [shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) - Landing page template using Vue, shadcn-vue, TypeScript, Tailwind CSS
